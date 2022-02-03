@@ -99,4 +99,4 @@ In your career, you don't need to know all languages.  Specialize in popular one
 3. Actions
 4. Best Practices
 
-![Learning Python](/img/tutorial/intro-02.png)
+![Learning Python](/img/tutorial/intro-03.png)
