@@ -17,7 +17,7 @@ The translation is done using an interpreter or compiler:
 1. Interpreter - Excecute code line-by-line
 2. Compiler - Read code all at once and then translate
 
-![What is a programming lanaguage?](/img/tutorial/what-is-a-programming-language-01.png)
+![What is a programming lanaguage?](/img/tutorial/intro-01.png)
 
 :::note
 Python usually uses an interpreter.
@@ -98,3 +98,5 @@ In your career, you don't need to know all languages.  Specialize in popular one
 2. Data Types
 3. Actions
 4. Best Practices
+
+![Learning Python](/img/tutorial/intro-02.png)
